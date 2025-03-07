@@ -1,0 +1,3 @@
+Arduino-Integrated Farming Assistant (AIFA) is an Explainable AI using a 3-layer Deep Neural Network and SHAP to generate crop recommendations based on inputs provided by Arduino sensors.
+
+The development of AIFA was part of the tasks included in CPE117-4 for a research paper developed by E03-Group2 from Term 2 SY2425.
